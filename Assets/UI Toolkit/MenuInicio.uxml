@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/UI%20Toolkit/Varios/Style-Blue.uss?fileID=7433441132597879392&amp;guid=92b3ef137dbe4814abe3dffb00096cc3&amp;type=3#Style-Blue" />
+    <ui:VisualElement style="height: 100%; width: 100%; justify-content: center; align-items: center;">
+        <ui:VisualElement style="background-color: rgba(72, 76, 163, 0.86); height: 50%; width: 40%; align-items: center; justify-content: center; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; border-top-left-radius: 20px; border-bottom-left-radius: 20px; border-top-right-radius: 20px; border-bottom-right-radius: 20px; border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0;">
+            <ui:Button text="INICIAR JUEGO" display-tooltip-when-elided="true" name="BotonInicio" class="Blue-Bot" style="color: rgba(255, 255, 255, 255); width: 60%;" />
+            <ui:Label text="Miembros:" display-tooltip-when-elided="true" style="bottom: 25px; position: absolute; color: rgb(255, 255, 255); -unity-font-style: italic;" />
+            <ui:Label text="Carlos Angarita &amp; Brayan Cartagena" display-tooltip-when-elided="true" style="position: absolute; bottom: 5px; -unity-font-style: italic; color: rgb(255, 255, 255);" />
+            <ui:Label text="MEGAMAN X" display-tooltip-when-elided="true" style="position: absolute; left: auto; top: 5px; font-size: 30px; color: rgb(255, 255, 255); -unity-font: url(&apos;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&amp;guid=30907fe051e5e3245b87eb11d7df963a&amp;type=3#NotInter-Regular&apos;); -unity-font-definition: none; -unity-font-style: bold; -unity-text-align: middle-center; white-space: nowrap; -unity-text-outline-width: 0; text-shadow: 2px 2px 1px rgb(0, 0, 0); letter-spacing: 0; word-spacing: 15px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
